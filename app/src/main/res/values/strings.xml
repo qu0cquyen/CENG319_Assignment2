@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EXOPlayer</string>
+    <string name="video_link">https://raw.githubusercontent.com/qu0cquyen/CENG319_InClassProject1/master/app/src/main/res/drawable/video.mp4</string>
+</resources>
